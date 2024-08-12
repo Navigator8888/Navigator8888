@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 👋 Моё имя Павел
+- 👀 Меня интересуют аналитика данных и наука о данных
+- 🌱 Сейчас я изучаю SQL, Python, математику и ML
+- 💞️ Я ищу возможность сотрудничества в проектах по анализу данных
+- 📫 Как со мной связаться: Linkedin
+
 <!--
 **Navigator8888/Navigator8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,6 +38,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -55,7 +63,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavel&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Navigator8888&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -66,3 +74,4 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
